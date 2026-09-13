@@ -1,0 +1,2 @@
+# everythingaboutit.github.io
+redirects
